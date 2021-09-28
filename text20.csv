@@ -1,7 +1,8 @@
-Cualquier gen particular siempre es encontrado en la misma posición en el mismo cromasoma. Por ejemplo, 
-si un gen que controla el color del ojo es encontrado en el cromasoma 1 en un individuo, el mismo gen estaría en la misma posición en cada otra persona examinada. 
-Dado que tenemos dos copías de cada cromasoma, esto significa que tenemos dos copía de cada gen. Esta relación es ilustrada abajo. 
-El cromasoma marcado con el símbolo del hombre (la flecha) representa el cromasoma contribuído por el padre y el cromasoma marcado con el símbolo de mujer (la cruz) 
-representa el cromasoma contribuído por la madre. Una cosa muy importante que hay que saber es que la versión del gen presente en los dos cromasomas no tiene que ser igual. 
-Continuando con el ejemplo anterior, el gen del padre para el color del ojo puede causar la producción de ojos azules mientras la versión del gene de la madre puede causar 
-la producción de ojos marrones. El color de ojo visto en el niño es resultado de la actividad de los dos copias del gen.
+surce,line,text,
+texto 20,0,"Cualquier gen particular siempre es encontrado en la misma posición en el mismo cromasoma. Por ejemplo, ",
+texto 20,1,"si un gen que controla el color del ojo es encontrado en el cromasoma 1 en un individuo, el mismo gen estaría en la misma posición en cada otra persona examinada. ",
+texto 20,2,"Dado que tenemos dos copías de cada cromasoma, esto significa que tenemos dos copía de cada gen. Esta relación es ilustrada abajo. ",
+texto 20,3,"El cromasoma marcado con el símbolo del hombre (la flecha) representa el cromasoma contribuído por el padre y el cromasoma marcado con el símbolo de mujer (la cruz)", 
+texto 20,4,"representa el cromasoma contribuído por la madre. Una cosa muy importante que hay que saber es que la versión del gen presente en los dos cromasomas no tiene que ser igual. ",
+texto 20,5,"Continuando con el ejemplo anterior, el gen del padre para el color del ojo puede causar la producción de ojos azules mientras la versión del gene de la madre puede causar ",
+texto 20,6,"la producción de ojos marrones. El color de ojo visto en el niño es resultado de la actividad de los dos copias del gen.",
